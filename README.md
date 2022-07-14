@@ -36,9 +36,9 @@ src="https://gist.githubusercontent.com/Marlon-Paulo-da-Silva/69ba0730cae3cabf1d
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Marlon-Paulo-da-Silva&show_icons=true&theme=dracula" alt="Marlon's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlon-Paulo-da-Silva&layout=compact&theme=dracula" alt="Marlon's most languages"/>
+<p align="center">
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Marlon-Paulo-da-Silva&show_icons=true&theme=dracula" alt="Marlon's stats"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlon-Paulo-da-Silva&layout=compact&theme=dracula" alt="Marlon's most languages"/>
 </p>
 <!--
 -->
