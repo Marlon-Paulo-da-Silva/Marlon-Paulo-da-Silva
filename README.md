@@ -1,22 +1,27 @@
-<img align="right" height="590em" 
+
+  
+<img align="right" height="490em" 
 src="https://gist.githubusercontent.com/Marlon-Paulo-da-Silva/69ba0730cae3cabf1d6ae4985914e391/raw/246e011e3772dea5d55f064e6e09323f82cee86e/githubcard-marlon.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Marlon Paulo</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Marlon-Paulo-da-Silva&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Junior Web Developer 
+- 🔥 Web Developer 
 
 - 🔭 I’m currently working at [Imobibrasil](https://www.linkedin.com/company/imobibrasil/)
 
 - ▶️ I (not) regularly post videos on [youtube.com/Marlon Paulo](https://www.youtube.com/channel/UCKU_aeUdXC5D7ky7WS98ZaQ)
 
-- 💬 Ask me about **PHP, HTML, CSS, REACT, REACT NATIVE**
+- 💬 Ask me about **PHP, HTML, CSS, REACT, REACT NATIVE, NODE.JS**
 
-<!--
+
+
+
 
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
+![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -27,19 +32,21 @@ src="https://gist.githubusercontent.com/Marlon-Paulo-da-Silva/69ba0730cae3cabf1d
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Marlon-Paulo-da-Silva&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlon-Paulo-da-Silva&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
+<!--
 -->
-
 <br><br>
+
+
 
 ## Contact
 
@@ -57,10 +64,8 @@ src="https://gist.githubusercontent.com/Marlon-Paulo-da-Silva/69ba0730cae3cabf1d
 </a>
 </p>
 
+
 <!--
-
-<img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
-
 
 **Marlon-Paulo-da-Silva/Marlon-Paulo-da-Silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
