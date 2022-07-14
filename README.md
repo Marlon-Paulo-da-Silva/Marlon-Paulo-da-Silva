@@ -1,18 +1,15 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Mayk Brito</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+<img align="right" height="590em" 
+src="https://gist.githubusercontent.com/Marlon-Paulo-da-Silva/69ba0730cae3cabf1d6ae4985914e391/raw/246e011e3772dea5d55f064e6e09323f82cee86e/githubcard-marlon.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Marlon Paulo</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Marlon-Paulo-da-Silva&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
+- 🔥 Junior Web Developer 
 
-- 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat)
+- 🔭 I’m currently working at [Imobibrasil](https://www.linkedin.com/company/imobibrasil/)
 
-- ▶️ I (not) regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
+- ▶️ I (not) regularly post videos on [youtube.com/Marlon Paulo](https://www.youtube.com/channel/UCKU_aeUdXC5D7ky7WS98ZaQ)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
-
-- ⚡ Fun fact **Oneye 😜**
-
-- 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev)
+- 💬 Ask me about **PHP, HTML, CSS, REACT, REACT NATIVE**
 
 <!--
 
@@ -47,20 +44,16 @@
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="https://codepen.io/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
+
+
+<a href="https://www.linkedin.com/in/marlon-paulo/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-marlonpaulo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://twitter.com/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
+<a href="https://instagram.com/marlonpaulodasilva1" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-marlonpaulo-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://youtube.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
+<a href="https://www.youtube.com/channel/UCKU_aeUdXC5D7ky7WS98ZaQ" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-marlonpaulo-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
 
@@ -69,7 +62,7 @@
 <img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
 
 
-**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Marlon-Paulo-da-Silva/Marlon-Paulo-da-Silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
