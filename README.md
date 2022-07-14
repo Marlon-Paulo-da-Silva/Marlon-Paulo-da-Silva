@@ -1,7 +1,7 @@
 
   
-<img align="right" height="490em" 
-src="https://gist.githubusercontent.com/Marlon-Paulo-da-Silva/69ba0730cae3cabf1d6ae4985914e391/raw/246e011e3772dea5d55f064e6e09323f82cee86e/githubcard-marlon.svg"/>
+<img align="right" height="690em" 
+src="https://gist.githubusercontent.com/Marlon-Paulo-da-Silva/69ba0730cae3cabf1d6ae4985914e391/raw/cf5654addfdc7b4a75543b79fcb92bd517a7ae6b/githubcard-marlon.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Marlon Paulo</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Marlon-Paulo-da-Silva&color=yellow" alt="Profile views" /> </p>
 
@@ -39,8 +39,8 @@ src="https://gist.githubusercontent.com/Marlon-Paulo-da-Silva/69ba0730cae3cabf1d
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Marlon-Paulo-da-Silva&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlon-Paulo-da-Silva&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Marlon-Paulo-da-Silva&show_icons=true&theme=vision-friendly-dark" alt="Marlon's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlon-Paulo-da-Silva&layout=compact&theme=vision-friendly-dark" alt="Marlon's most languages"/>
 </p>
 <!--
 -->
