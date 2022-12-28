@@ -1,6 +1,8 @@
-<img align="right" height="540em" 
+<h1><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="50px"><a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=38&pause=1000&color=9E3547&vCenter=true&width=435&height=35&lines=Hi%2C+I'm+Marlon+Paulo" alt="Typing SVG" /></a></h1>
+
+<img align="right" height="480em" 
 src="https://gist.githubusercontent.com/Marlon-Paulo-da-Silva/69ba0730cae3cabf1d6ae4985914e391/raw/87baecaa29c981bf42d2fb443548b0f0cbad0000/githubcard-marlon.svg"/>
-<h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="50px"><a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=38&pause=1000&color=9E3547&vCenter=true&width=435&height=35&lines=Hi%2C+I'm+Marlon+Paulo" alt="Typing SVG" /></a></h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Marlon-Paulo-da-Silva&color=yellow" alt="Profile views" /> </p>
 
@@ -68,15 +70,3 @@ src="https://gist.githubusercontent.com/Marlon-Paulo-da-Silva/69ba0730cae3cabf1d
 <!--
 
 **Marlon-Paulo-da-Silva/Marlon-Paulo-da-Silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
