@@ -37,6 +37,8 @@ src="https://gist.githubusercontent.com/Marlon-Paulo-da-Silva/69ba0730cae3cabf1d
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 
 <br><br>
+<br><br>
+<br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
