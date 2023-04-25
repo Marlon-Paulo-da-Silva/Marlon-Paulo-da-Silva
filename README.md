@@ -43,8 +43,8 @@ src="https://gist.githubusercontent.com/Marlon-Paulo-da-Silva/69ba0730cae3cabf1d
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center" width="100%">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marlon-Paulo-da-Silva&show_icons=true&theme=maroongold" alt="Marlon's stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlon-Paulo-da-Silva&layout=compact&theme=maroongold" alt="Marlon's most languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marlon-Paulo-da-Silva&show_icons=true&theme=slateorange" alt="Marlon's stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlon-Paulo-da-Silva&layout=compact&theme=slateorange" alt="Marlon's most languages"/>
 </p>
 <!--
 -->
