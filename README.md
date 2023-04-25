@@ -1,4 +1,4 @@
-<h1><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="50px"><a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=38&pause=1000&color=9E3547&vCenter=true&width=435&height=35&lines=Hi%2C+I'm+Marlon+Paulo" alt="Typing SVG" /></a></h1>
+<h1><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="50px"><a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=38&pause=1000&color=d3af1b&vCenter=true&width=435&height=35&lines=Hi%2C+I'm+Marlon+Paulo" alt="Typing SVG" /></a></h1>
 
 <img align="right" height="480em" 
 src="https://gist.githubusercontent.com/Marlon-Paulo-da-Silva/69ba0730cae3cabf1d6ae4985914e391/raw/87baecaa29c981bf42d2fb443548b0f0cbad0000/githubcard-marlon.svg"/>
