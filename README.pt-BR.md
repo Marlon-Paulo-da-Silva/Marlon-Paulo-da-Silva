@@ -51,12 +51,12 @@ Desenvolvedor **Back-end** na [ImobiBrasil](https://www.linkedin.com/company/imo
 
 <div align="center">
 
-<img src="./profile-summary-card-output/great_gatsby/0-profile-details.svg" alt="Profile details"/>
+<img src="./profile-summary-card-output/gruvbox/0-profile-details.svg" alt="Profile details"/>
 
-<img height="170" src="./profile-summary-card-output/great_gatsby/3-stats.svg" alt="Stats"/>
-<img height="170" src="./profile-summary-card-output/great_gatsby/2-most-commit-language.svg" alt="Top languages"/>
+<img height="170" src="./profile-summary-card-output/gruvbox/3-stats.svg" alt="Stats"/>
+<img height="170" src="./profile-summary-card-output/gruvbox/2-most-commit-language.svg" alt="Top languages"/>
 
-<img src="https://streak-stats.demolab.com?user=Marlon-Paulo-da-Silva&hide_border=true&background=0D1117&ring=D3AF1B&fire=FFB74D&currStreakNum=FFD95B&sideNums=FFD95B&currStreakLabel=FFA726&sideLabels=FFA726&dates=C9D1D9&stroke=30363D" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Marlon-Paulo-da-Silva&hide_border=true&background=282828&ring=FABD2F&fire=FE8019&currStreakNum=FABD2F&sideNums=FABD2F&currStreakLabel=FE8019&sideLabels=8EC07C&dates=A89984&stroke=504945" alt="GitHub Streak"/>
 
 </div>
 
