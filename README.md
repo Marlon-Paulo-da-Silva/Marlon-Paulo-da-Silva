@@ -56,7 +56,7 @@
 <img height="170" src="./profile-summary-card-output/great_gatsby/3-stats.svg" alt="Stats"/>
 <img height="170" src="./profile-summary-card-output/great_gatsby/2-most-commit-language.svg" alt="Top languages"/>
 
-<img src="https://streak-stats.demolab.com?user=Marlon-Paulo-da-Silva&hide_border=true&background=0D1117&ring=D3AF1B&fire=FFB74D&currStrNum=FFD95B&sideNums=FFD95B&currStrLabel=FFA726&sideLabels=FFA726&dates=C9D1D9&stroke=30363D" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Marlon-Paulo-da-Silva&hide_border=true&background=0D1117&ring=D3AF1B&fire=FFB74D&currStreakNum=FFD95B&sideNums=FFD95B&currStreakLabel=FFA726&sideLabels=FFA726&dates=C9D1D9&stroke=30363D" alt="GitHub Streak"/>
 
 </div>
 
