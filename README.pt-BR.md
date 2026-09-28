@@ -24,7 +24,7 @@
 Desenvolvedor **Back-end** na [ImobiBrasil](https://www.linkedin.com/company/imobibrasil/), construindo soluções para o mercado imobiliário.
 
 - 🔭 Trabalhando com **PHP, MySQL, Node.js** e integrações de APIs
-- 🌱 Estudando atualmente: **<!-- ex.: TypeScript, Docker, IA aplicada -->**
+- 🌱 Estudando atualmente: **IA aplicada**
 - 💬 Pode me perguntar sobre **PHP, JavaScript, React, React Native, Node.js**
 - ▶️ De vez em quando posto vídeos no [YouTube](https://www.youtube.com/channel/UCKU_aeUdXC5D7ky7WS98ZaQ)
 - 📫 Fale comigo pelo [LinkedIn](https://www.linkedin.com/in/marlon-paulo/)

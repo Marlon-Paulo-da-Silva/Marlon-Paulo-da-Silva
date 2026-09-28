@@ -24,7 +24,7 @@
 **Back-end developer** at [ImobiBrasil](https://www.linkedin.com/company/imobibrasil/), building software for the real estate market.
 
 - 🔭 Working with **PHP, MySQL, Node.js** and API integrations
-- 🌱 Currently learning: **<!-- e.g. TypeScript, Docker, applied AI -->**
+- 🌱 Currently learning: **Applied AI**
 - 💬 Ask me about **PHP, JavaScript, React, React Native, Node.js**
 - ▶️ I (not so) regularly post videos on [YouTube](https://www.youtube.com/channel/UCKU_aeUdXC5D7ky7WS98ZaQ)
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/marlon-paulo/)
