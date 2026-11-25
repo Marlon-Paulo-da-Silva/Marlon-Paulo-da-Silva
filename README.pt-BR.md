@@ -6,63 +6,69 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=D3AF1B&center=true&vCenter=true&width=600&lines=Oi%2C+eu+sou+o+Marlon+Paulo+%F0%9F%91%8B;Back-end+Developer;PHP+%7C+Node.js+%7C+React" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1200&color=D4FF3F&center=true&vCenter=true&width=700&height=50&lines=Marlon+Paulo;Engenheiro+Back-end+%C2%B7+PHP+%C2%B7+Laravel;IA+aplicada+a+neg%C3%B3cios+reais" alt="Marlon Paulo — Engenheiro Back-end · PHP · Laravel · IA aplicada" />
+
+**Código que vira resultado no negócio. IA aplicada, sem hype.**
 
 <p>
   <a href="https://www.linkedin.com/in/marlon-paulo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.youtube.com/channel/UCKU_aeUdXC5D7ky7WS98ZaQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="https://www.instagram.com/marlonpaulo.ia"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Marlon-Paulo-da-Silva&color=d3af1b&style=for-the-badge&label=VISITAS" alt="Profile views"/>
+  <a href="https://www.youtube.com/channel/UCKU_aeUdXC5D7ky7WS98ZaQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Marlon-Paulo-da-Silva&color=0c1014&style=for-the-badge&label=VISITAS" alt="Visitas ao perfil"/>
 </p>
 
 </div>
 
 ---
 
-### 👨‍💻 Sobre mim
+### Sobre mim
 
-Desenvolvedor **Back-end** na [ImobiBrasil](https://www.linkedin.com/company/imobibrasil/), construindo soluções para o mercado imobiliário.
+Engenheiro back-end na [ImobiBrasil](https://www.linkedin.com/company/imobibrasil/), construindo a plataforma que imobiliárias usam para tocar site, leads e vendas.
 
-- 🔭 Trabalhando com **PHP, MySQL, Node.js** e integrações de APIs
-- 🌱 Estudando atualmente: **IA aplicada**
-- 💬 Pode me perguntar sobre **PHP, JavaScript, React, React Native, Node.js**
-- ▶️ De vez em quando posto vídeos no [YouTube](https://www.youtube.com/channel/UCKU_aeUdXC5D7ky7WS98ZaQ)
-- 📫 Fale comigo pelo [LinkedIn](https://www.linkedin.com/in/marlon-paulo/)
+- **No dia a dia:** PHP, Laravel, MySQL, APIs REST, Docker, performance e rastreamento (pixels da Meta, TikTok e Clarity).
+- **Agora:** aplicando IA onde ela mexe em número: automações no WhatsApp, distribuição de leads, fluxos no n8n e agentes com LLM para pequenos negócios.
+- **Também:** mostro o que funciona (e o que não funciona) com IA nos negócios no [Instagram](https://www.instagram.com/marlonpaulo.ia).
+- **Formação:** Análise e Desenvolvimento de Sistemas, Fatec Presidente Prudente.
 
-### 🛠 Tech Stack
+### Tecnologias
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,ts,nodejs,react,flutter,html,css,git,github,docker,linux,vscode&perline=15" alt="Tech stack"/>
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,nodejs,ts,js,react,flutter,docker,linux,nginx,git,github,vscode&perline=14" alt="Tecnologias"/>
   </a>
 </p>
 
-### 🚀 Projetos em destaque
+### No que estou trabalhando
+
+| Área | O quê | Stack |
+|---|---|---|
+| SaaS imobiliário | Distribuição de leads, funil de vendas e performance de sites na ImobiBrasil (privado) | PHP · Laravel · MySQL |
+| Automação com IA | Agentes de WhatsApp e fluxos n8n para negócios locais | Node.js · n8n · APIs de LLM |
+| Projetos pessoais | App de finanças pessoais e replay de quadras esportivas | Python · Docker |
+
+### Projetos open source
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [**TikTok-Clone-ReactNative**](https://github.com/Marlon-Paulo-da-Silva/TikTok-Clone-ReactNative)<br><img src="https://img.shields.io/github/stars/Marlon-Paulo-da-Silva/TikTok-Clone-ReactNative?style=for-the-badge&logo=github&color=d3af1b&label=stars" alt="stars"/> | Clone do TikTok com feed de vídeos em tela cheia | React Native · Expo |
-| [**CRUD-MVC-PHP**](https://github.com/Marlon-Paulo-da-Silva/CRUD-MVC-PHP) | CRUD com arquitetura MVC própria em PHP puro, com roteador, middlewares, sessões, área administrativa e API REST (v1) | PHP · MySQL |
-| [**SabeOfertas**](https://github.com/Marlon-Paulo-da-Silva/SabeOfertas) | Busca de ofertas em tempo real para quem está andando pelo comércio | React · React Native · Node.js |
-| [**InstagramClone-FeaturesOnScroll**](https://github.com/Marlon-Paulo-da-Silva/InstagramClone-FeaturesOnScroll) ⭐ 6 | Clone do Instagram com efeitos de carregamento no scroll | React Native |
-| [**Buscar-valores-selic**](https://github.com/Marlon-Paulo-da-Silva/Buscar-valores-selic) | Consulta a taxa Selic em um intervalo de datas pela API de dados abertos do Banco Central | React |
+| [**CRUD-MVC-PHP**](https://github.com/Marlon-Paulo-da-Silva/CRUD-MVC-PHP) | MVC próprio em PHP puro: roteador, middlewares, sessões, área admin e API REST (v1) | PHP · MySQL |
+| [**TikTok-Clone-ReactNative**](https://github.com/Marlon-Paulo-da-Silva/TikTok-Clone-ReactNative) <img src="https://img.shields.io/github/stars/Marlon-Paulo-da-Silva/TikTok-Clone-ReactNative?style=flat&color=D4FF3F&label=%E2%98%85" alt="estrelas"/> | Feed de vídeos em tela cheia | React Native · Expo |
+| [**SabeOfertas**](https://github.com/Marlon-Paulo-da-Silva/SabeOfertas) | Ofertas em tempo real para quem passa por áreas comerciais | React · React Native · Node.js |
+| [**Buscar-valores-selic**](https://github.com/Marlon-Paulo-da-Silva/Buscar-valores-selic) | Taxa Selic por período via API de dados abertos do Banco Central | React |
 
-### 📊 GitHub Analytics
+### Estatísticas
 
 <div align="center">
 
-<img src="./profile-summary-card-output/gruvbox/0-profile-details.svg" alt="Profile details"/>
+<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Detalhes do perfil"/>
 
-<img height="170" src="./profile-summary-card-output/gruvbox/3-stats.svg" alt="Stats"/>
-<img height="170" src="./profile-summary-card-output/gruvbox/2-most-commit-language.svg" alt="Top languages"/>
+<img height="170" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Estatísticas"/>
+<img height="170" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Linguagens mais usadas"/>
 
-<img src="https://streak-stats.demolab.com?user=Marlon-Paulo-da-Silva&hide_border=true&background=282828&ring=FABD2F&fire=FE8019&currStreakNum=FABD2F&sideNums=FABD2F&currStreakLabel=FE8019&sideLabels=8EC07C&dates=A89984&stroke=504945" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Marlon-Paulo-da-Silva&hide_border=true&background=0D1117&ring=D4FF3F&fire=D4FF3F&currStreakNum=F5F5F5&sideNums=F5F5F5&currStreakLabel=D4FF3F&sideLabels=A8A8A8&dates=6F767B&stroke=30363D&locale=pt_BR" alt="Sequência no GitHub"/>
 
 </div>
 
-### 🐍 Contribuições
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marlon-Paulo-da-Silva/Marlon-Paulo-da-Silva/output/github-snake-dark.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/Marlon-Paulo-da-Silva/Marlon-Paulo-da-Silva/output/github-snake.svg" />
+  <img alt="Cobrinha das contribuições" src="https://raw.githubusercontent.com/Marlon-Paulo-da-Silva/Marlon-Paulo-da-Silva/output/github-snake.svg" />
 </picture>
